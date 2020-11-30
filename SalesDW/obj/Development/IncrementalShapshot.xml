@@ -26,7 +26,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>tEayVhFREqm4mVuE8iBFwaXKzf4=21.11.2020 20:48:3221.11.2020 20:48:32</TimeStamp>
+        <TimeStamp>kY/797WaLK1Az+NrA9wm8qGZ4mg=23.11.2020 20:42:4921.11.2020 20:48:32</TimeStamp>
         <ID>
           <String>Adventure Works DW2008R2</String>
         </ID>
@@ -40,21 +40,21 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>Jb/4cJqBxvdfiIrNqW6lJeCJz84=21.11.2020 22:28:2621.11.2020 20:50:15</TimeStamp>
+        <TimeStamp>aI2Zzk/+U/QS+ub9cKoZ53vNUd4=23.11.2020 20:38:0921.11.2020 20:50:15</TimeStamp>
         <ID>
           <String>Dim Customer</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>MmLhPOBaEWVfzulVeInxKeJomo8=21.11.2020 22:32:3021.11.2020 20:50:15</TimeStamp>
+        <TimeStamp>Ct91E6y/AMIW38gJdHKpyRQrkO8=23.11.2020 20:38:0921.11.2020 20:50:15</TimeStamp>
         <ID>
           <String>Dim Product</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>s0xcWY2TNs75cMpG3H4iowhRZqs=21.11.2020 22:32:3021.11.2020 20:50:15AHcMk7Q3Q4H3SXorbZ8Dkrokkuw=21.11.2020 20:50:1521.11.2020 20:50:15</TimeStamp>
+        <TimeStamp>v3W80jqkDVXZnJjDv0GqdorI63w=23.11.2020 20:29:3221.11.2020 20:50:15AHcMk7Q3Q4H3SXorbZ8Dkrokkuw=21.11.2020 20:50:1521.11.2020 20:50:15</TimeStamp>
         <ID>
           <String>InternetSalesCube</String>
         </ID>
@@ -71,5 +71,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2020-11-21T21:32:40.363333Z</LastDeployed>
+  <LastDeployed>2020-11-23T19:43:04.176667Z</LastDeployed>
 </DeploymentSnapshot>
