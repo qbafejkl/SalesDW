@@ -60,8 +60,15 @@
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>hmuKyZd9Zmc33mFE0QeQOFNED6Y=12.12.2020 14:34:1212.12.2020 14:33:42</TimeStamp>
+        <ID>
+          <String>Dim Sales Territory</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>zptgjfyCE47YsocTKuv2sU27WI0=12.12.2020 14:12:5721.11.2020 20:50:15AHcMk7Q3Q4H3SXorbZ8Dkrokkuw=21.11.2020 20:50:1521.11.2020 20:50:15</TimeStamp>
+        <TimeStamp>CCzV1zqSeVt0UB57sZ237NnaS+g=12.12.2020 14:35:0921.11.2020 20:50:15AHcMk7Q3Q4H3SXorbZ8Dkrokkuw=21.11.2020 20:50:1521.11.2020 20:50:15</TimeStamp>
         <ID>
           <String>InternetSalesCube</String>
         </ID>
@@ -78,5 +85,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2020-12-12T13:15:33.853333Z</LastDeployed>
+  <LastDeployed>2020-12-12T13:35:14.866667Z</LastDeployed>
 </DeploymentSnapshot>

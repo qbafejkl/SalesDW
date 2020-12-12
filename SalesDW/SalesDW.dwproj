@@ -35,6 +35,10 @@
       <Name>Dim Promotion.dim</Name>
       <FullPath>Dim Promotion.dim</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Sales Territory.dim</Name>
+      <FullPath>Dim Sales Territory.dim</FullPath>
+    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>
