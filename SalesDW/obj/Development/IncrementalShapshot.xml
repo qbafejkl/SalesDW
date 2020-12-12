@@ -26,35 +26,35 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>kY/797WaLK1Az+NrA9wm8qGZ4mg=23.11.2020 20:42:4921.11.2020 20:48:32</TimeStamp>
+        <TimeStamp>bVpG7gQmb+w+32CEW4rJoAs0Xmo=05.12.2020 09:10:2521.11.2020 20:48:32</TimeStamp>
         <ID>
           <String>Adventure Works DW2008R2</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>qm4JMiIOkZs8zWuEiLJOxV2BSnY=21.11.2020 21:47:2021.11.2020 20:50:15</TimeStamp>
+        <TimeStamp>3APL3Im3oh6m5Ad1Nk2C4d8I/Eg=05.12.2020 08:48:2321.11.2020 20:50:15</TimeStamp>
         <ID>
           <String>Dim Date</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>aI2Zzk/+U/QS+ub9cKoZ53vNUd4=23.11.2020 20:38:0921.11.2020 20:50:15</TimeStamp>
+        <TimeStamp>d/uVTu596C1Hzj3UfUdzr2bC1As=05.12.2020 08:35:1221.11.2020 20:50:15</TimeStamp>
         <ID>
           <String>Dim Customer</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>Ct91E6y/AMIW38gJdHKpyRQrkO8=23.11.2020 20:38:0921.11.2020 20:50:15</TimeStamp>
+        <TimeStamp>0hLqYmbhNKyj/ipD0ZSvimK5CZ8=05.12.2020 10:06:4621.11.2020 20:50:15</TimeStamp>
         <ID>
           <String>Dim Product</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>v3W80jqkDVXZnJjDv0GqdorI63w=23.11.2020 20:29:3221.11.2020 20:50:15AHcMk7Q3Q4H3SXorbZ8Dkrokkuw=21.11.2020 20:50:1521.11.2020 20:50:15</TimeStamp>
+        <TimeStamp>Q90O+dxcf1fx8b1ofqW/wISqyLA=05.12.2020 10:50:1721.11.2020 20:50:15AHcMk7Q3Q4H3SXorbZ8Dkrokkuw=21.11.2020 20:50:1521.11.2020 20:50:15</TimeStamp>
         <ID>
           <String>InternetSalesCube</String>
         </ID>
@@ -71,5 +71,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2020-11-23T19:43:04.176667Z</LastDeployed>
+  <LastDeployed>2020-12-12T11:32:05.833333Z</LastDeployed>
 </DeploymentSnapshot>
